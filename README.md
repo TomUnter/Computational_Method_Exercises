@@ -35,6 +35,4 @@ Autor der ursprünglichen Übungen und nachträgliche Überarbeitung: Tom Unterl
 
 Datensatzinformationen: Dokumentation von `sklearn.datasets.load_digits`.
 
-## Lizenz
 
-Eine Lizenz ist noch festzulegen. Rechte an gegebenenfalls ergänzten Kursvorlagen, Aufgabenstellungen und fremden Dateien sind vor einer Veröffentlichung separat zu prüfen.
